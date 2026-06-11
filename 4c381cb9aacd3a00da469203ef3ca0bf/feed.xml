@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Scholarly Handover</title>
-    <link>https://jamie579.github.io/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/</link>
-    <atom:link href="https://jamie579.github.io/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://jamiebriansmith.com/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/</link>
+    <atom:link href="https://jamiebriansmith.com/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-gb</language>
     <description>Daily source-grounded academic morning briefing: Paper of the Morning, Knowledge Revisit, Strategic Field Briefing.</description>
     <itunes:author>The Scholarly Handover</itunes:author>
-    <itunes:image href="https://jamie579.github.io/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/cover.png"/>
+    <itunes:image href="https://jamiebriansmith.com/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <item>
       <title>Who teaches the teachers · 11 Jun 2026</title>
       <description>Who teaches the teachers Paper: Nurturing an evolving identity through role transition: A hermeneutic phenomenological exploration of the lived experiences of nurse academics working in UK universities (Nurse Education Today 2026). Revisit: adjusted vs unadjusted estimates. Strategic: MRC early independence: career development fellowship (UKRI, published 5 June 2026).</description>
       <pubDate>Thu, 11 Jun 2026 05:00:00 +0100</pubDate>
-      <guid isPermaLink="false">https://jamie579.github.io/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/episodes/2026-06-11.mp3</guid>
-      <enclosure url="https://jamie579.github.io/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/episodes/2026-06-11.mp3" length="2499438" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://jamiebriansmith.com/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/episodes/2026-06-11.mp3</guid>
+      <enclosure url="https://jamiebriansmith.com/handover-feed/4c381cb9aacd3a00da469203ef3ca0bf/episodes/2026-06-11.mp3" length="2499438" type="audio/mpeg"/>
       <itunes:duration>0:05:12</itunes:duration>
     </item>
   </channel>
